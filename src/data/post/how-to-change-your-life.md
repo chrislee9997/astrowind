@@ -2,7 +2,7 @@
 publishDate: 2024-12-05T00:00:00Z
 author: Chris Lee
 title: '如何在6-12个月内彻底改变你的生活(并将其货币化)'
-excerpt: '从自我提升到自我货币化，我用一年时间实现了地理自由、时间自由和财务自由'
+excerpt: '从自我提升到自我货币化，我用一年时间逐步实现了地理、时间和财务更大的自由'
 image: https://images.unsplash.com/photo-1501594907352-04cda38ebc29?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2832&q=80
 category: 创作者经济
 tags:
